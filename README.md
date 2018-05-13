@@ -14,4 +14,4 @@ It takes a noise texture and a float between 0-1 (set in script using a sine wav
 ![Dissolve](Renders/Dissolve.gif "Dissolve")
 
 # Consider buying me a coffee if you like my work (click the image)
-[![Foo](coffee.png)](https://www.buymeacoffee.com/ZcRuWpUBf)
+[![Foo](Renders/coffee.png)](https://www.buymeacoffee.com/ZcRuWpUBf)
